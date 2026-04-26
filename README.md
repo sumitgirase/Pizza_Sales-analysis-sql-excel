@@ -8,7 +8,7 @@ This project focuses on analyzing [Pizza_ Sales] using SQL and Excel to extract 
 - Microsoft Excel
 
 ## 📂 Dataset
-- Source: [Dataset](./data/pizza_sales.csv)
+- Source: [Dataset](pizza_sales(1).csv)
 - Format: Excel (.xlsx)
 
 ## 📈 Key Insights
@@ -50,7 +50,7 @@ Remove or redesign low-selling items
 - Data Cleaning
 
 ## 📸 Dashboard Preview
-![Dashboard](./dashboard/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## 🚀 How to Use
 1. Download dataset
