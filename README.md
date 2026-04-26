@@ -1,15 +1,14 @@
-pizza_sales (1).csv
 # 📊 SQL + Excel Data Analysis Project
 
 ## 🔍 Overview
-This project focuses on analyzing [dataset name] using SQL and Excel to extract meaningful insights.
+This project focuses on analyzing [Pizza_ Sales] using SQL and Excel to extract meaningful insights.
 
 ## 🛠 Tools Used
 - SQL (MySQL / PostgreSQL)
 - Microsoft Excel
 
 ## 📂 Dataset
-- Source: [pizza_sales (1).csv]
+- Source: [Dataset](./data/pizza_sales.csv)
 - Format: Excel (.xlsx)
 
 ## 📈 Key Insights
@@ -51,7 +50,7 @@ Remove or redesign low-selling items
 - Data Cleaning
 
 ## 📸 Dashboard Preview
-(Dashboard.png)
+![Dashboard](./dashboard/Dashboard.png)
 
 ## 🚀 How to Use
 1. Download dataset
